@@ -3,7 +3,7 @@
 ## Link Repo Backend
 ```
 Jalankan backend terlebih dahulu  : 
-https://github.com/FahrezaIsnanto/backend-nodejs-for-flutter.git
+https://github.com/FahrezaIsnanto/-backend-nodejs-for-flutter.git
 ```
 
 ## Cara Setup 
